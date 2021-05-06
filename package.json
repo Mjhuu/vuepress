@@ -2,6 +2,7 @@
   "name": "vuepress-starter",
   "version": "1.0.0",
   "dependencies": {
+    "vuepress-theme-yuu": "^2.3.0"
   },
   "scripts": {
     "dev": "vuepress dev docs",
